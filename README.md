@@ -1,1 +1,1 @@
-This is the machine learning codes. <br> I learn this from my IBM Trainer Mr. Ayush Chand in my 6th Semester of my Btech
+These are the machine learning codes. <br> I learn this from my IBM Trainer Mr. Ayush Chand in the 6th Semester of my Btech. <br> I have also uploaded the project which I made on Big Data and the title of the project is Flight Price Prediction.
